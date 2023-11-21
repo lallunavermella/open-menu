@@ -15,7 +15,7 @@ Para usar el menú en tu proyecto de React, sigue estos pasos:
 1. Clona el repositorio:
 
    ```bash
-   git clone https://github.com/tu-nombre-de-usuario/open-menu.git
+   git clone https://github.com/lallunavermella/open-menu.git
    ```
 
 2. Navega al directorio del proyecto:
